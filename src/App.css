@@ -1,38 +1,79 @@
-.App {
+#mainApp {
+  padding-top: 2%;
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(to bottom, #00ff2a, #1900ff);
+}
+
+h1 {
+  text-align: center;
+  font-family: "Bangers", cursive;
+  text-decoration: underline;
+}
+
+#info {
+  background-color: #00ced1;
+  text-align: center;
+  font-family: "Yellowtail", cursive;
+  border: 2vw solid black;
+  padding: 2%;
+  margin: 2%;
+  border-radius: 10%;
+}
+
+.itemDiv {
+  margin: 2%;
+  padding: 2%;
+  text-align: left;
+}
+
+.myLabel {
+  font-size: medium;
+  width: 92vw;
+}
+
+.mybtn {
+  /* float: right; */
+  margin: 2%;
+}
+
+.myInputField {
+  margin-left: 3%;
+  width: 70vw;
+}
+
+th,
+td {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.myCheckBoxes {
+  margin: 2%;
+  font-size: x-large;
+  background-color: #000000;
+  color: #f0f8ff;
+  padding: 2%;
+  font-family: "Fondamento", cursive;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h3 {
+  font-family: "Lobster", cursive;
+  margin: 2%;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.myTable {
+  margin: 2%;
+  padding-bottom: 2%;
 }
 
-.App-link {
-  color: #61dafb;
+.dark-green {
+  background-color: #ab2769;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
+@media screen and (min-width: 1000px) {
+  #mainApp {
+    width: 400px;
+    height: 800px;
+    background-image: linear-gradient(to bottom, #00ff00, #ff0000);
   }
 }
