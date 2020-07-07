@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Bill-Splitter/static/css/main.7bd109d0.chunk.css",
+    "main.js": "/Bill-Splitter/static/js/main.dce0dbd6.chunk.js",
+    "main.js.map": "/Bill-Splitter/static/js/main.dce0dbd6.chunk.js.map",
+    "runtime-main.js": "/Bill-Splitter/static/js/runtime-main.205b8b97.js",
+    "runtime-main.js.map": "/Bill-Splitter/static/js/runtime-main.205b8b97.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/Bill-Splitter/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.de0f8e8b.chunk.js": "/Bill-Splitter/static/js/2.de0f8e8b.chunk.js",
+    "static/js/2.de0f8e8b.chunk.js.map": "/Bill-Splitter/static/js/2.de0f8e8b.chunk.js.map",
+    "index.html": "/Bill-Splitter/index.html",
+    "precache-manifest.824b938512d0b99d0168e6f755f306c2.js": "/Bill-Splitter/precache-manifest.824b938512d0b99d0168e6f755f306c2.js",
+    "service-worker.js": "/Bill-Splitter/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/Bill-Splitter/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.7bd109d0.chunk.css.map": "/Bill-Splitter/static/css/main.7bd109d0.chunk.css.map",
+    "static/js/2.de0f8e8b.chunk.js.LICENSE.txt": "/Bill-Splitter/static/js/2.de0f8e8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.205b8b97.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.de0f8e8b.chunk.js",
+    "static/css/main.7bd109d0.chunk.css",
+    "static/js/main.dce0dbd6.chunk.js"
+  ]
+}
