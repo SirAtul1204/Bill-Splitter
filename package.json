@@ -1,4 +1,5 @@
 {
+  "homepage": "http://SirAtul1204.github.io/Bill-Splitter",
   "name": "bill-splitter",
   "version": "0.1.0",
   "private": true,
@@ -12,6 +13,8 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
+    "predeploy": "npm rum build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
