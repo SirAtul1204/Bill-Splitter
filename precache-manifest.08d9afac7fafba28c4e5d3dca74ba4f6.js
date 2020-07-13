@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e8e8a3d4d226873280d6da5d7c01b839",
+    "revision": "5a253ba132a280b0d1a77e3fb2fbc1c9",
     "url": "/Bill-Splitter/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Bill-Splitter/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "abb32afefb346682c24e",
-    "url": "/Bill-Splitter/static/css/main.7bd109d0.chunk.css"
+    "revision": "6a7e5d10a01aac94cf42",
+    "url": "/Bill-Splitter/static/css/main.a3760bd7.chunk.css"
   },
   {
     "revision": "7b79af0370c1e389a3ee",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Bill-Splitter/static/js/2.de0f8e8b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "abb32afefb346682c24e",
-    "url": "/Bill-Splitter/static/js/main.dce0dbd6.chunk.js"
+    "revision": "6a7e5d10a01aac94cf42",
+    "url": "/Bill-Splitter/static/js/main.698c52f1.chunk.js"
   },
   {
     "revision": "9b371a634fd0380b8062",
