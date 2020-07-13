@@ -62,10 +62,9 @@ class ItemAdder extends Component {
             <label className="badge badge-dark myLabel">
               Quantity:
               <input
-                className="myInputField"
+                className="myInputField quantity"
                 type="number"
                 name="quantity"
-                style={{ width: "64vw" }}
                 value={this.state.quantity}
                 onChange={this.changeQuantity}
               />

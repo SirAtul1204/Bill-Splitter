@@ -4,6 +4,4 @@ Ever went to a Restaurant with friends and there is one vegetarian guy who refus
 
 I created it for myself, as I every now and then get into this kind of situation :sweat_smile:
 
-** It only works in small screen devices (Mobile Phones) as its where i am going to use it the most, but soon I will update the CSS to work in large devices as well **
-
 You can use the app online at https://SirAtul1204.github.io/Bill-Splitter
